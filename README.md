@@ -18,7 +18,7 @@ Ajustes Sprint 1
 - Se quita el anterior black ground, poniendo uno de color blanco, para mejorar la presentación
 - Se distribuyen mejor los elementos 
 
-SE ADJUNTA LINK DE LA CALENDARIZACIÓN Y AJUTE DES SPRINT 1
+SE ADJUNTA LINK DE LA CALENDARIZACIÓN Y AJUSTE DEL SPRINT 1
 
 https://drive.google.com/file/d/1DPK2k8kirL__lz2gSPcxl1RcHjNAFxYs/view?usp=sharing
 
