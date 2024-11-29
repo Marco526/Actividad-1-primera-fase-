@@ -1,5 +1,5 @@
 
-# 📌 Testimonios freeCodeCamp
+# 📌 INTERFAZ APLICACIÓN JAPONÉS
 
 Para correr la aplicación abrir terminal y teclear ( npm start ) en caso de no abrir teclear ( npm install) para instalar los comando y repetir ( npm start ) 
 
