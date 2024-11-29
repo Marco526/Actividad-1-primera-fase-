@@ -2,6 +2,8 @@
 # 📌 Testimonios freeCodeCamp
 
 Para correr la aplicación abrir terminal y teclear ( npm start ) en caso de no abrir teclear ( npm install) para instalar los comando y repetir ( npm start ) 
+
+
 ¡Hola! Esta es una aplicación desarrollada con React que representa una aplicación para aprenderJapones. 
 Es la página de Inicio. Se comienza con algunos testimonios  de estudiantes de todo el mundo. 
 
