@@ -15,7 +15,7 @@ Ajustes Sprint 1
 - Se hace más limpia la visualización 
 - Se agregan Testimonios de estudiantes 
 - Se da una breve introducción del proposito de la aplicación 
-- Se quita el anterior black ground, poniendo uno de color blanco, para mejorar la preentación
+- Se quita el anterior black ground, poniendo uno de color blanco, para mejorar la presentación
 - Se distribuyen mejor los elementos 
 
 SE ADJUNTA LINK DE LA CALENDARIZACIÓN Y AJUTE DES SPRINT 1
